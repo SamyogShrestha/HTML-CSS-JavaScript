@@ -1,0 +1,27 @@
+<div id='hc1'></div>
+<div id='hc2'></div>
+<div id='hc3'></div>
+<style>
+    body{
+      background: #62306D;}
+  div{
+    width: 100px;
+    height: 100px;
+    background: #F7EC7D;
+    position:absolute;
+    border-radius: 0 0 50% 50%;
+  }
+  #hc1 {
+    top: 150px;
+    left: 50px;
+  }
+  #hc2  {
+    top: 50px;
+    left: 150px;
+    transform: rotate(180deg);
+  }
+  #hc3  {
+    top: 150px;
+    left: 250px;
+  }
+</style>
