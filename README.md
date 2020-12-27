@@ -1,2 +1,2 @@
 # HTML-CSS-JavaScript
-This repository contains a brief practice of HTML, CSS and JavaScript
+This repository contains a brief practice file on HTML, CSS and JavaScript
